@@ -2,7 +2,9 @@
 
 Business Operations Platform
 
-OpsSuite is a portfolio project that demonstrates the design of an integrated business operations platform inspired by real business workflows.
+OpsSuite is an integrated business operations platform designed to centralize procurement, inventory management, customer relationship management (CRM), reporting, document management, and administrative workflows into a single workspace.
+
+Created as part of my professional portfolio, OpsSuite is inspired by the operational workflows of **R P Medical Equipment & Supplies Trading**. The project demonstrates business process design, workflow optimization, and practical operations management through a modern, modular platform.
 
 The platform centralizes procurement, inventory management, customer relationship management (CRM), reporting, document management, and administrative workflows into a single workspace.
 
